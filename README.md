@@ -22,7 +22,7 @@ Sarkar_AI is a Python-based chatbot that helps users explore and understand vari
 - **ChromaDB** – For storing and retrieving document embeddings
 - **Groq API** – For generating LLM-based answers
 - **Google Translate API** – For multilingual support
-- **PyMuPDF / pdfminer** – For reading PDFs
+- **PyPDF / pdfminer** – For reading PDFs
 
 ---
 
