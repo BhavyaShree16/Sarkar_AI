@@ -1,0 +1,32 @@
+# langchain
+# langchain-community
+# langchain-core
+# langchain-openai
+# PyPDF2
+# faiss-cpu
+# tiktoken
+# groq
+# streamlit
+# python-dotenv
+
+
+langchain
+langchain-community
+langchain-core
+langchain-openai
+PyPDF2
+faiss-cpu
+tiktoken
+groq
+streamlit
+python-dotenv
+flask
+flask-cors
+langchain_groq
+langchain_huggingface
+pypdf
+langdetect
+deep-translator
+pypdf
+langdetect
+deep-translator
